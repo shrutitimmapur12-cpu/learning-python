@@ -1,1 +1,1 @@
-# learning-python
+this repository is for learnng python from scratch.
